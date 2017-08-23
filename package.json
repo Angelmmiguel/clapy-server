@@ -35,7 +35,7 @@
   "dependencies": {
     "micro": "^8.0.3",
     "micro-cors": "^0.0.4",
-    "nedb": "^1.8.0",
+    "nedb-promise": "^2.0.1",
     "parse-domain": "^1.1.0"
   },
   "devDependencies": {
