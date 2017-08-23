@@ -1194,6 +1194,10 @@ p-locate@^2.0.0:
   dependencies:
     p-limit "^1.1.0"
 
+parse-domain@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/parse-domain/-/parse-domain-1.1.0.tgz#6cb05bc9002552773bf7cc4c06dbd60dc939a973"
+
 parse-glob@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/parse-glob/-/parse-glob-3.0.4.tgz#b2c376cfb11f35513badd173ef0bb6e3a388391c"

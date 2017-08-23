@@ -12,6 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/Angelmmiguel/clapy.git"
   },
+  "now": {
+    "name": "clapy",
+    "alias": "clapy",
+    "public": true
+  },
   "keywords": [
     "microservice",
     "blog",
@@ -30,7 +35,8 @@
   "dependencies": {
     "micro": "^8.0.3",
     "micro-cors": "^0.0.4",
-    "nedb": "^1.8.0"
+    "nedb": "^1.8.0",
+    "parse-domain": "^1.1.0"
   },
   "devDependencies": {
     "micro-dev": "^1.2.1"
